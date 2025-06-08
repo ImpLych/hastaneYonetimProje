@@ -14,7 +14,7 @@ namespace hastaneYonetimProje
     {
         public SqlConnection baglanti()
         {
-            SqlConnection baglan = new SqlConnection("Data Source=Hasan\\SQLEXPRESS;Initial Catalog=HastaneProje;Integrated Security=True;");
+            SqlConnection baglan = new SqlConnection("Data Source=****************;Initial Catalog=HastaneProje;Integrated Security=True;");
             baglan.Open();
             return baglan;
 
