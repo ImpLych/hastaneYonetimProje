@@ -1,6 +1,6 @@
 # 🏥 Hudut Askeri Hastanesi Yönetim Sistemi  
 
-Bu proje, **Hudut Askeri Hastanesi** için geliştirilmiş bir **C# Windows Forms ve MSSQL** tabanlı yönetim sistemidir.  
+Bu proje, Hayal ürünü bir hastane olan **Hudut Askeri Hastanesi** için geliştirilmiş bir **C# Windows Forms ve MSSQL** tabanlı yönetim sistemidir.  
 Hasta, doktor ve sekreter işlemlerinin yönetilmesini sağlar.  
 
 ## 🚀 Özellikler  
